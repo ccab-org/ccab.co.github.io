@@ -332,7 +332,7 @@ Informamos o token de acesso recebido</p>
 <h2>2. Segundo passo - Fazendo uma requisição no sistema Ellos</h2>
 <p>De posse do Token de Acesso, faça a requisição a API.</p>
 <pre><code>
-curl -X GET "https://api.hom.ellos.org.br/ellos/easytrade-customs/api/Exportation/details"\
+curl -X GET "https://api.hom.ellos.org.br/ellos/easytrade/api-customs/api/Exportation/details"\
 -H "accept: application/json" \
 -H "Authorization: Bearer eyJraWQiOiI4aTV5cndFMVlreGc4M0FWXC9MTWFacHk0b0J0TEJ6a01yN21" \
 
@@ -348,11 +348,11 @@ Informamos o tipo de dados que estamos requerendo, nesse caso JSON</p>
 Informamos o token de acesso recebido</p>
 </li>
 <li>
-<p>[GET] https://api.hom.ellos.org.br/ellos/easytrade-customs/api/Exportation/details</p>
+<p>[GET] https://api.hom.ellos.org.br/ellos/easytrade/api-customs/api/Exportation/details</p>
 </li>
 </ul>
 <p>Chamamos a url da API e o método desejado. No caso, a url base é
- "https://api.hom.ellos.org.br/ellos/easytrade-customs/api/”, e o método é o 
+ "https://api.hom.ellos.org.br/ellos/easytrade/api-customs/api/”, e o método é o 
  "Exportation/details?idCompany=147&amp;idExportation=edb65905c98da3cd5f55d0c251ec582254ecd353a0a257aec2b33e6f384b5b28".</p>
 <p>Exemplo de resposta esperada:</p>
 <pre><code>{
