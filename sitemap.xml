@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://api.origincertificate.ellos.org.br/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/apis/associate/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/apis/originCertificate/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/contact/support/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/demonstracao/demonstracao/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/documentation/returnCode/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/documentation/typesFormat/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/quickStart/howToAuthenticate/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://api.origincertificate.ellos.org.br/quickStart/howToConsult/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
