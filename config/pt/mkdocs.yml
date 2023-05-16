@@ -1,4 +1,4 @@
-site_name: API Origin Certificate
+site_name: API Certificado de Origem
 site_url: https://api.origincertificate.ellos.org.br
 docs_dir: '../../docs/pt'                           
 site_dir: '../../site/pt' 
@@ -31,7 +31,7 @@ nav:
       - Tipagem e formatação: documentation/typesFormat.md
       - Códigos de retorno: documentation/returnCode.md
     - Consultar APIs:
-      - Origin Certificate: apis/originCertificate.md
+      - Certificado de Origem: apis/originCertificate.md
       - Associate: apis/associate.md
     - Demonstração: demonstracao/demonstracao.md
     - Suporte:

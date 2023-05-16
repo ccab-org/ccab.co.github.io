@@ -22,9 +22,8 @@ Fornecer para exportar o processo de seguro do Certificado de Origem e todas as 
 
 ## <b>Como funciona a API de Certificado de Origem?</b>
 
-O serviço Consulta da Alfândega é disponibilizado através do HTTP REST. 
-Integrar seus sistemas diretamente à consultas no Easytrade, automatizar consultas e 
-checagens de informações sobre as Empresas e serviços da plataforma.
+O serviço Certificado de Origem é disponibilizado através do HTTP REST.
+Integrar seus sistemas diretamente à plataforma de emissão de Certificado de Origem, automatizar a emissão, checagens de informações e download dos certificados emitidos na plataforma.
 
 
 O contratante terá acesso a todas as informações relacionadas a plataforma do EasyTrade.

@@ -58,7 +58,7 @@ Exemplo de resposta esperada:
 }
 ```
 
-<h2>2. Segundo passo - Fazendo uma requisição no sistema Ellos</h2>
+<h2>Fazer requisição de Certificado de Origem ao invés de alfândega</h2>
 
 De posse do Token de Acesso, faça a requisição a API.
 ```
